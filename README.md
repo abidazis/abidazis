@@ -23,26 +23,72 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/abid-athananda-azis/" target="_blank" style="margin-right: 20px;"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Abid Azis on LinkedIn" height="40" width="40" /></a>
-  
-  <a href="https://wa.me/6285880084403" target="_blank" style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Abid Azis on WhatsApp" height="40" width="40" /></a>
-  
-  <a href="https://instagram.com/abid_azis/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abid Azis on Instagram" height="40" width="40" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://linkedin.com/in/nama-anda" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://wa.me/6281234567890" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://instagram.com/nama-anda" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <h3 align="center">My Tech Stack:</h3>
-<p align="center">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" style="margin-right: 25px;"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin-right: 25px;"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 25px;"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 25px;"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 25px;"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 25px;"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://laravel.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://vuejs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.php.net" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
