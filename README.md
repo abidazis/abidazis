@@ -27,17 +27,17 @@
   <table>
     <tr>
       <td align="center" width="100">
-        <a href="https://linkedin.com/in/nama-anda" target="_blank">
+        <a href="https://linkedin.com/in/abid-athananda-azis" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
         </a>
       </td>
       <td align="center" width="100">
-        <a href="https://wa.me/6281234567890" target="_blank">
+        <a href="https://wa.me/6285880084403" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
         </a>
       </td>
       <td align="center" width="100">
-        <a href="https://instagram.com/nama-anda" target="_blank">
+        <a href="https://instagram.com/abid_azis" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
         </a>
       </td>
